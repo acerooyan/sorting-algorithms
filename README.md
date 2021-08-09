@@ -1,5 +1,9 @@
 # sorting-algorithms includes as follows
 
+see fully description and chart analysis by click:** https://github.com/acerooyan/sorting-algorithms/blob/acerooyan-patch-1/Sorting_Algorithms_REPORT.pdf**
+
+
+
 Insertion-sort
 
 Merge-sort
