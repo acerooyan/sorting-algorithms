@@ -6,9 +6,9 @@ Merge-sort
 
 The following implementations of Shellsort:
  The original Shell sequence, [n/2k ], ..., 1, for k=1,2,...,log n, where [*] denotes the floor function.
-The A083318 (Links to an external site.) sequence, 2k + 1, for k=log n, ..., 3, 2, 1, plus the value 1.
-The A003586 (Links to an external site.) sequence, 2p3q, ordered from the largest such number less than n down to 1.
-The A033622 (Links to an external site.) sequence, in reverse order, starting from the largest value less than n, down to 1.
+The https://oeis.org/A083318(Links to an external site.) sequence, 2k + 1, for k=log n, ..., 3, 2, 1, plus the value 1.
+The https://oeis.org/A003586 (Links to an external site.) sequence, 2p3q, ordered from the largest such number less than n down to 1.
+The https://oeis.org/A033622 (Links to an external site.) sequence, in reverse order, starting from the largest value less than n, down to 1.
 
 The following implementations of Hybrid sort (using merge-sort and insertion-sort):
     H = n1/2
